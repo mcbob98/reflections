@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+git creates a new repository in the directory that you run the init command in. You would need to do this when you wan to start a new git repository.
