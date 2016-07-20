@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 git creates a new repository in the directory that you run the init command in. You would need to do this when you wan to start a new git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers? The staging area is between the two. The value is you stage only the files you want to track.
